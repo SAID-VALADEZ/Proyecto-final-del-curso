@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c5fa430602327a96437f24bef08f9106\jetified-play-services-drive-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\79401548085b330d9e2334f040e2e64f\jetified-Toasty-1.2.5\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d06b4eaf3d198c3fd9dc41c28e6252e3\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\68eb9e88bfa9691c61ec0c917372e23d\navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b51cfc6e08706d6b728f3e609e48654f\preference-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\55197c5797dc5acd17bfc95bdd264fe4\appcompat-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\00f76515dcf9be3dc13db152e89539ca\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\f8ed86d412182e1c38b6eee3ce774b88\navigation-fragment-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fc33b0a2bfcde2819dc1a3175dea3027\navigation-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5e86586a13aa16b26f9fc186401f8c9d\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\709f4d6ddd1b74c0978cb42d956a9e3d\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ab26b0b5c11b5ea6e1dc3231e7b36d86\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ed2238594cc60c7661d0a1a48aa9dada\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7a18c3cd04002587231f053366cdc255\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\12846f820886c73f0526d2b7e512abe4\fragment-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3be0129da62edfd01384409879261b60\navigation-common-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\011c1e4e2cbf70dad178720e95eb081e\jetified-appcompat-resources-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\33aabeb9bc284b5c7dca6c6bf38b5b49\jetified-activity-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a2a9fa22ec47e2bebcb357caa594aaaf\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fced863ac4b2547914e9dcd773da03ad\vectordrawable-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\77ceee1474ae9fb4a7adc3c4e16fd9b3\core-1.1.0-rc01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\71aa93bb123c96967da4fee4469da6e7\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fc2de31f8d79fd2dd4dd81d5d251b685\lifecycle-runtime-2.1.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\704aed3b2629ab0a63a2910ca0cd079f\lifecycle-viewmodel-2.1.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\cb2fc7fae23af2ffe864450e00982883\jetified-savedstate-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c5fa430602327a96437f24bef08f9106\jetified-play-services-drive-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c5fa430602327a96437f24bef08f9106\jetified-play-services-drive-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\709f4d6ddd1b74c0978cb42d956a9e3d\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\709f4d6ddd1b74c0978cb42d956a9e3d\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7a18c3cd04002587231f053366cdc255\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7a18c3cd04002587231f053366cdc255\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\77ceee1474ae9fb4a7adc3c4e16fd9b3\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\77ceee1474ae9fb4a7adc3c4e16fd9b3\core-1.1.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\77ceee1474ae9fb4a7adc3c4e16fd9b3\core-1.1.0-rc01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.projectnotes.activities.SettingsActivity
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:17:9-19:69
+	android:parentActivityName
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:18:13-56
+activity#com.example.projectnotes.activities.EditTextActivity
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:20:9-22:69
+	android:parentActivityName
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:21:13-56
+activity#com.example.projectnotes.activities.RegistryActivity
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:23:9-65
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:23:19-62
+activity#com.example.projectnotes.activities.MainActivity
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:24:19-58
+activity#com.example.projectnotes.activities.SplashActivity
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:25:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c5fa430602327a96437f24bef08f9106\jetified-play-services-drive-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c5fa430602327a96437f24bef08f9106\jetified-play-services-drive-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\79401548085b330d9e2334f040e2e64f\jetified-Toasty-1.2.5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\79401548085b330d9e2334f040e2e64f\jetified-Toasty-1.2.5\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d06b4eaf3d198c3fd9dc41c28e6252e3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d06b4eaf3d198c3fd9dc41c28e6252e3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\68eb9e88bfa9691c61ec0c917372e23d\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\68eb9e88bfa9691c61ec0c917372e23d\navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\16de5a105d918594ea18965f8161a8bc\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b51cfc6e08706d6b728f3e609e48654f\preference-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b51cfc6e08706d6b728f3e609e48654f\preference-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\55197c5797dc5acd17bfc95bdd264fe4\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\55197c5797dc5acd17bfc95bdd264fe4\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\00f76515dcf9be3dc13db152e89539ca\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\00f76515dcf9be3dc13db152e89539ca\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\f8ed86d412182e1c38b6eee3ce774b88\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\f8ed86d412182e1c38b6eee3ce774b88\navigation-fragment-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fc33b0a2bfcde2819dc1a3175dea3027\navigation-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fc33b0a2bfcde2819dc1a3175dea3027\navigation-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5e86586a13aa16b26f9fc186401f8c9d\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5e86586a13aa16b26f9fc186401f8c9d\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\709f4d6ddd1b74c0978cb42d956a9e3d\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\709f4d6ddd1b74c0978cb42d956a9e3d\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ab26b0b5c11b5ea6e1dc3231e7b36d86\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ab26b0b5c11b5ea6e1dc3231e7b36d86\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ed2238594cc60c7661d0a1a48aa9dada\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ed2238594cc60c7661d0a1a48aa9dada\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7a18c3cd04002587231f053366cdc255\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7a18c3cd04002587231f053366cdc255\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\12846f820886c73f0526d2b7e512abe4\fragment-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\12846f820886c73f0526d2b7e512abe4\fragment-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3be0129da62edfd01384409879261b60\navigation-common-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3be0129da62edfd01384409879261b60\navigation-common-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\011c1e4e2cbf70dad178720e95eb081e\jetified-appcompat-resources-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\011c1e4e2cbf70dad178720e95eb081e\jetified-appcompat-resources-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\33aabeb9bc284b5c7dca6c6bf38b5b49\jetified-activity-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\33aabeb9bc284b5c7dca6c6bf38b5b49\jetified-activity-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a2a9fa22ec47e2bebcb357caa594aaaf\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a2a9fa22ec47e2bebcb357caa594aaaf\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fced863ac4b2547914e9dcd773da03ad\vectordrawable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fced863ac4b2547914e9dcd773da03ad\vectordrawable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\77ceee1474ae9fb4a7adc3c4e16fd9b3\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\77ceee1474ae9fb4a7adc3c4e16fd9b3\core-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\65de829360b5583f350a919eb423ff00\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\71aa93bb123c96967da4fee4469da6e7\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\71aa93bb123c96967da4fee4469da6e7\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fc2de31f8d79fd2dd4dd81d5d251b685\lifecycle-runtime-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fc2de31f8d79fd2dd4dd81d5d251b685\lifecycle-runtime-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\704aed3b2629ab0a63a2910ca0cd079f\lifecycle-viewmodel-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\704aed3b2629ab0a63a2910ca0cd079f\lifecycle-viewmodel-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\cb2fc7fae23af2ffe864450e00982883\jetified-savedstate-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\cb2fc7fae23af2ffe864450e00982883\jetified-savedstate-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
