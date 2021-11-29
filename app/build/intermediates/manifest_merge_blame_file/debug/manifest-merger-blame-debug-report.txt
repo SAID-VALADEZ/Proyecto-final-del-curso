@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.projectnotes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:8:22-76
+15
+16    <application
+16-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:10:5-32:19
+17        android:name="androidx.multidex.MultiDexApplication"
+18        android:allowBackup="true"
+18-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0-rc01] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\77ceee1474ae9fb4a7adc3c4e16fd9b3\core-1.1.0-rc01\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:13:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:14:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:15:9-35
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:16:9-40
+26        <activity
+26-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:17:9-19:69
+27            android:name="com.example.projectnotes.activities.SettingsActivity"
+27-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:18:13-56
+28            android:parentActivityName="com.example.projectnotes.activities.MainActivity" />
+28-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:19:13-66
+29        <activity
+29-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:20:9-22:69
+30            android:name="com.example.projectnotes.activities.EditTextActivity"
+30-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:21:13-56
+31            android:parentActivityName="com.example.projectnotes.activities.MainActivity" />
+31-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:22:13-66
+32        <activity android:name="com.example.projectnotes.activities.RegistryActivity" />
+32-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:23:9-65
+32-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:23:19-62
+33        <activity android:name="com.example.projectnotes.activities.MainActivity" />
+33-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:24:9-61
+33-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:24:19-58
+34        <activity android:name="com.example.projectnotes.activities.SplashActivity" >
+34-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:25:9-31:20
+34-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:25:19-60
+35            <intent-filter>
+35-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:26:13-30:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:27:17-69
+36-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:27:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:29:17-77
+38-->C:\Users\evigilbautista\Downloads\ProjectNotes-master\ProjectNotes-master\app\src\main\AndroidManifest.xml:29:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+42            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+42-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+43            android:excludeFromRecents="true"
+43-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+44            android:exported="false"
+44-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+45            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+45-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+46        <!--
+47            Service handling Google Sign-In user revocation. For apps that do not integrate with
+48            Google Sign-In, this service will never be started.
+49        -->
+50        <service
+50-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+51            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+51-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+52            android:exported="true"
+52-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+53            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+53-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7e6622e6f798ecaf93150efc7bd10996\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+54
+55        <activity
+55-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+56            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+56-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+57            android:exported="false"
+57-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+58            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+58-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d810550874c071a7f5afc391a91fdc61\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+59
+60        <meta-data
+60-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+61            android:name="com.google.android.gms.version"
+61-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+62            android:value="@integer/google_play_services_version" />
+62-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5feaec8abf5f0f657ccb7d51c61164e6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+63
+64        <provider
+64-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+65            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+65-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+66            android:authorities="com.example.projectnotes.lifecycle-process"
+66-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+67            android:exported="false"
+67-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+68            android:multiprocess="true" />
+68-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\evigilbautista\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e953a6c6aa473293c3a94459e549ecaa\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+69    </application>
+70
+71</manifest>
