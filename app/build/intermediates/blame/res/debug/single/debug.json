@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialog_reset.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\progress_dialog_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sort_by_alpha1.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sort_by_alpha1.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_usuario.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sort_by_alpha1.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sort_by_alpha1.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_attach.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_attach.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_usuario.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_security.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_attach.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_check.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_security.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_security.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notas.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\notas.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_volume.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_volume.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_volume.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_usuario.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_check.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_attach.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_attach.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_round.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_gradient.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\color_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_check.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_edit_text_attach.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\menu\\menu_edit_text_attach.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_volume.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\button_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_security.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_security.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar_gradient.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\progressbar_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_security.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_security.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_usuario.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_show_image.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\dialog_show_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_volume.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_check.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_password.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\dialog_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_attach.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_attach.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sort_by_alpha1.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sort_by_alpha1.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialog_backup.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\progress_dialog_backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_perfil.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\perfil.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialog_save.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\progress_dialog_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_security.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_security.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registry.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\activity_registry.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_settings.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\menu\\menu_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_lock.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_listview.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\my_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_sort_by_alpha1.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sort_by_alpha1.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_security.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_security.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_text.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\activity_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sort_by_alpha1.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sort_by_alpha1.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_attach.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_attach.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_volume.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_security.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_security.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_attach.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_attach.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sort_by_alpha1.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sort_by_alpha1.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_attach.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_attach.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_note.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\edit_text_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_usuario.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_usuario.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_edit_text_share.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\menu\\menu_edit_text_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_round_border.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\button_round_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sort_by_alpha1.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sort_by_alpha1.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_text_round.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\edit_text_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_floating.xml.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\src\\main\\res\\drawable\\button_floating.xml"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_usuario.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_usuario.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_volume.png.flat",
+        "source": "C:\\Users\\evigilbautista\\Downloads\\ProjectNotes-master\\ProjectNotes-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_volume.png"
+    }
+]
