@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment:1.1.0-rc01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.0.2-all/gradle-7.0.2/caches/transforms-2/files-2.1/12846f820886c73f0526d2b7e512abe4/fragment-1.1.0-rc01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.0.2-all/gradle-7.0.2/caches/transforms-2/files-2.1/12846f820886c73f0526d2b7e512abe4/fragment-1.1.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.0.2-all/gradle-7.0.2/caches/transforms-2/files-2.1/12846f820886c73f0526d2b7e512abe4/fragment-1.1.0-rc01/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.0.2-all/gradle-7.0.2/caches/transforms-2/files-2.1/12846f820886c73f0526d2b7e512abe4/fragment-1.1.0-rc01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.0.2-all/gradle-7.0.2/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0-rc01/f4abe26c807908d872bf9091dc330b17d71cd6f1/fragment-1.1.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
